@@ -17,3 +17,4 @@ Hướng tới nghề nghiệp lập trình viên di động chuyên nghiệp, c
   Song song với đó, các phần mềm di động cũng cần được cập nhập liên tục để chạy theo sự phát triển đó.
   Điều này kéo theo lập trình di động vẫn sẽ phát triển nhằm phục nhu cầu của người dùng
 3.Viết một ứng dụng có UI như sau đẩy lên github.
+<img width="328" height="554" alt="image" src="https://github.com/user-attachments/assets/3155ff70-fcfd-4126-870d-78a18c765c78" />
